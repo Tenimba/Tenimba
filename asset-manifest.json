@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/tenimba/static/css/main.c5789a6f.css",
+    "main.js": "/tenimba/static/js/main.69b39c3b.js",
+    "static/js/787.aa8c1147.chunk.js": "/tenimba/static/js/787.aa8c1147.chunk.js",
+    "static/media/profil.png": "/tenimba/static/media/profil.02b2539d16affe8790a4.png",
+    "static/media/cv.pdf": "/tenimba/static/media/cv.b0ed603f934d018cb50e.pdf",
+    "static/media/battleship.png": "/tenimba/static/media/battleship.6de4ddccf64a2089f674.png",
+    "static/media/git.png": "/tenimba/static/media/git.a776e70b059b3df83d8c.png",
+    "static/media/plan.png": "/tenimba/static/media/plan.ae1ce11dce12498c0963.png",
+    "static/media/irc.png": "/tenimba/static/media/irc.d06998c552e8b88fd12f.png",
+    "static/media/insta.png": "/tenimba/static/media/insta.d41962d2a41701566f97.png",
+    "static/media/push.png": "/tenimba/static/media/push.49a8f460f81053a0dfdb.png",
+    "static/media/snap.png": "/tenimba/static/media/snap.80c9a947dc378cf6428c.png",
+    "index.html": "/tenimba/index.html",
+    "main.c5789a6f.css.map": "/tenimba/static/css/main.c5789a6f.css.map",
+    "main.69b39c3b.js.map": "/tenimba/static/js/main.69b39c3b.js.map",
+    "787.aa8c1147.chunk.js.map": "/tenimba/static/js/787.aa8c1147.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5789a6f.css",
+    "static/js/main.69b39c3b.js"
+  ]
+}
